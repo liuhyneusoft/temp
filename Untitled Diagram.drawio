@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T06:36:55.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="tOEMPq31nUaRvxhaJN9G" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T06:45:20.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="yqLxD4Ahx-MtHyBdxgJl" version="17.4.0" type="github">
   <diagram id="gKdOX9BXHwb5JUz8xRu_" name="Page-1">
     <mxGraphModel dx="1865" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
           <mxGeometry x="-80" y="2290" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jAAxaHhlG3nCpJsoV5B3-35" value="&lt;font style=&quot;font-size: 12px&quot;&gt;配置法规&lt;br&gt;关联还是复制一份&lt;br&gt;&lt;/font&gt;" style="html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="2740" width="110" height="100" as="geometry" />
+          <mxGeometry x="-700" y="2470" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
